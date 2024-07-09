@@ -1,0 +1,98 @@
+--Menú
+Lunes
+Almuerzo: Ensalada de garbanzos con tomate, pepino, pimiento, cebolla, aceitunas y aliño de aceite de oliva y limón.
+Cena: Pollo a la plancha con ensalada de quinoa, aguacate, tomate y cilantro.
+Martes
+Almuerzo: Pollo al horno con hierbas, acompañado de patatas asadas y espárragos.
+Cena: Pimientos rellenos de arroz, verduras y carne picada.
+Miércoles
+Almuerzo: Paella de verduras con pimiento rojo, guisantes, judías verdes, alcachofas y azafrán.
+Cena: Bacalao a la vizcaína con pimientos rojos y cebolla.
+Jueves
+Almuerzo: Filete de ternera a la plancha con puré de patatas y espinacas salteadas.
+Cena: Ensalada de garbanzos y atún con tomate, cebolla, pimiento y aceite de oliva.
+Viernes
+Almuerzo: Espaguetis con salsa de tomate, ajo, albahaca y aceite de oliva.
+Cena: Salmón al horno con eneldo y limón, acompañado de arroz integral y brócoli al vapor.
+Sábado
+Almuerzo: Gazpacho andaluz con tomate, pimiento, pepino, cebolla, ajo, aceite de oliva y vinagre.
+Cena: Empanadillas de atún con tomate, huevo duro y aceitunas.
+Domingo
+Almuerzo: Pollo guisado con verduras (zanahorias, guisantes, patatas y cebolla) en salsa de tomate.
+Cena: Pisto manchego con calabacín, pimiento, tomate, cebolla y huevo.
+
+
+--Lista de la compra.
+Verduras y Hortalizas
+Tomates (aproximadamente 2 kg)
+Pepinos (4 unidades)
+Pimientos rojos (6 unidades)
+Pimientos verdes (4 unidades)
+Pimientos amarillos (2 unidades)
+Cebollas (8 unidades)
+Zanahorias (6 unidades)
+Espárragos (1 manojo)
+Brócoli (1 cabeza)
+Patatas (aproximadamente 2 kg)
+Calabacines (4 unidades)
+Judías verdes (1 kg)
+Alcachofas (6 unidades o un tarro si no están en temporada)
+Lechuga romana (2 unidades)
+Espinacas frescas (2 bolsas)
+Aguacates (4 unidades)
+Cilantro fresco (1 manojo)
+Ajo (1 cabeza)
+Apio (1 manojo)
+Legumbres
+Garbanzos (1 kg)
+Lentejas (para hacer puré)
+Proteínas
+Pechugas de pollo (1 kg)
+Filetes de ternera (4 unidades)
+Bacalao fresco o desalado (4 filetes)
+Salmón fresco (4 filetes)
+Atún en conserva (4 latas)
+Carne picada (500 g)
+Chorizo (opcional para el cocido)
+Morcilla (opcional para el cocido)
+Huevos (12 unidades)
+Carbohidratos
+Quinoa (500 g)
+Arroz integral (1 kg)
+Espaguetis (500 g)
+Arroz para paella (500 g)
+Enlatados y Conservas
+Tomate triturado (2 latas grandes)
+Aceitunas (1 tarro)
+Alcaparras (1 tarro)
+Pimiento morrón (1 lata)
+Aceites y Vinagres
+Aceite de oliva virgen extra (1 botella grande)
+Vinagre de vino blanco o manzana (1 botella)
+Vinagre de Jerez (1 botella)
+Especias y Condimentos
+Sal
+Pimienta negra
+Albahaca seca
+Eneldo seco
+Azafrán
+Hierbas provenzales o tomillo
+Pimentón dulce
+Bebidas
+Bebidas vegetales fortificadas (como leche de almendras o soja) para alternativas al calcio (2 litros)
+Pan y Otros
+Pan integral (1 barra)
+Crutones para ensaladas (opcional)
+Frutas (para snacks o desayunos)
+Manzanas (7 unidades)
+Plátanos (7 unidades)
+Naranjas (7 unidades)
+Frutas de temporada a tu elección (para variar)
+Extras
+Pan rallado (para empanadillas)
+Harina de trigo (para empanadillas)
+Notas:
+Los ingredientes en cantidades específicas son aproximados y pueden ajustarse según el tamaño de las porciones y el número de comensales.
+Algunos ingredientes como las especias y el aceite de oliva pueden estar ya disponibles en tu despensa, verifica antes de comprar.
+Las frutas y verduras frescas deben ser compradas semanalmente para mantener su frescura.
+Esta lista debería cubrir todas las necesidades para preparar el menú semanal equilibrado y sin derivados lácteos.
